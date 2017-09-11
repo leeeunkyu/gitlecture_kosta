@@ -4,8 +4,7 @@ public class TestGit {
 		System.out.println("hello1");
 		System.out.println("hello2");
 		System.out.println("hello3");
-		System.out.println("hello branch");		
-		System.out.println("hello branch2");
+		System.out.println("hello branch");	
 
 	}
 }
